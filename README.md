@@ -1,2 +1,3 @@
 # Apuntes-Medicina
-Repositorio para los apuntes de todas las materias de la carrera de medicina 
+Hello Humans!
+I'm sigmagus here I going to descrive the thigs that i learned in my classes yeayeayea 
